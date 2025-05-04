@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-
-=======
 # readyweb
+
+模仿某小说网站的项目
 
 ## Project setup
 ```
@@ -25,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> c9ca78b5 (first commit)
